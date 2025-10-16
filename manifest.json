@@ -1,6 +1,10 @@
 {
   "name": "Passport Photo A4 Sheet",
-  "id": "1375830119853316140",
+  "id": "1560644440459117967",
+  "networkAccess": {
+    "allowedDomains": ["none"]
+  },
+  "documentAccess": "dynamic-page",
   "api": "1.0.0",
   "main": "code.js",
   "editorType": ["figma"],
